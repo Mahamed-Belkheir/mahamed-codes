@@ -13,7 +13,7 @@
 
 
 <script lang="ts">
-import Vue from "Vue";
+import Vue from "vue";
 export default Vue.extend({
 props: {
         items: Array,

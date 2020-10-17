@@ -17,10 +17,11 @@
 </template>
 
 <script lang="ts">
-import Vue from "Vue";
+import Vue from "vue";
 export default Vue.extend({})
 </script>
 
+</script>
 
 <style scoped>
 .navbar-light .navbar-nav .nav-link {
