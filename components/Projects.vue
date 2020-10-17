@@ -15,8 +15,11 @@
     </div>
 </template>
 
+
+
 <script lang="ts">
-export default {
+import Vue from "Vue";
+export default Vue.extend({
 
     data: function() {
        return {
@@ -36,7 +39,7 @@ export default {
     mounted() {
         this.text = this.projects[0][1]
     }
-}
+})
 </script>
 
 <style scoped>

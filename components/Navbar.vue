@@ -17,9 +17,8 @@
 </template>
 
 <script lang="ts">
-export default {
-    
-}
+import Vue from "Vue";
+export default Vue.extend({})
 </script>
 
 

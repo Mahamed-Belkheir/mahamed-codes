@@ -13,7 +13,8 @@
 
 
 <script lang="ts">
-export default {
+import Vue from "Vue";
+export default Vue.extend({
 props: {
         items: Array,
         cb: Function
@@ -29,7 +30,7 @@ props: {
             this.cb(i)
         }
     }
-}
+})
 </script>
 
 
