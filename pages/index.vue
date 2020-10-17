@@ -12,7 +12,7 @@
             <Projects/>
         </div>
         <div class="row h-25" id="contact">
-            <About/>
+            <Contact/>
         </div>
     </div>
 </div>
