@@ -6,10 +6,10 @@
         </button>
         <div class="collapse navbar-collapse flex-d flex-row-reverse" id="navbarCollapse">
             <div class="navbar-nav h-20">
-                <a href="/" class="nav-item nav-link text-black">About</a>
-                <a href="/" class="nav-item nav-link">Experience</a>
-                <a href="/" class="nav-item nav-link">Projects</a>
-                <a href="/" class="nav-item nav-link">About</a>
+                <a href="#about" class="nav-item nav-link text-black">About</a>
+                <a href="#experience" class="nav-item nav-link">Experience</a>
+                <a href="#projects" class="nav-item nav-link">Projects</a>
+                <a href="#contact" class="nav-item nav-link">Contact</a>
             </div>
         </div>
     </div>

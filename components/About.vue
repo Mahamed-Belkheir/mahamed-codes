@@ -7,7 +7,7 @@
                 
                 <p>Who likes to code</p>
                 <span>
-                    <a href="#" class="btn">Get to know me</a>
+                    <a href="#experience" class="btn">Get to know me</a>
                 </span>
             </div>
         </div>
@@ -41,7 +41,13 @@ p {
 }
 
 a {
-    border: 1px solid black;
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(
+        to left,
+        #2F80ED,
+        #6FCF97
+    );
 }
 
 </style>

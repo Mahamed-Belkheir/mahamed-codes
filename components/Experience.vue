@@ -41,6 +41,10 @@ export default {
 </script>
 
 <style scoped>
+
+.container {
+    margin-top: 6rem;
+}
 h2 {
     font-weight: 300;
     font-size: 3rem;
